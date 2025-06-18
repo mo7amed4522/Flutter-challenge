@@ -71,7 +71,7 @@
 **Example Starter Code Snippet (Optional to Include**)\*\*    
 ---
 
-\`\`\`dart  
+```dart  
 // Example for the Ride Selection Screen vehicle selector:  
 ListView.builder(  
   itemCount: rideOptions.length,  
@@ -87,7 +87,7 @@ ListView.builder(
     ),  
   ),  
 )  
-\`\`\`  
+```
 ---
 
 **Evaluation Criteria**    
