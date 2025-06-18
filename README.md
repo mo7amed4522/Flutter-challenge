@@ -4,6 +4,7 @@ Suggested Duration: 48–72 hours (from assignment to submission)
 
 Flutter Code Challenge  
 ⚠️ Please note excessive use of AI will disqualify an assessment from review. ⚠️
+
 🚖 Flutter Code Challenge: Ride-Hailing App UI  
 Objective: Build a responsive, multi-screen Flutter app matching the provided designs (`001.jpg` and `01.jpg`). Focus on UI fidelity, navigation, and optional interactivity.  
 
