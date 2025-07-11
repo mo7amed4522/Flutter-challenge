@@ -1,0 +1,6 @@
+{
+  "appTitle": "Ride Hailing",
+  "@appTitle": {},
+  "exepctRoute":"Router returned null (no screen to display)",
+  "@exepctRoute": {}
+} 
