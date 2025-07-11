@@ -1,8 +1,0 @@
-{
-  "formatter": "prettier",
-  "linter": "eslint",
-  "designContract": "cursor.mdc",
-  "preferredExtensions": ["dart"],
-  "autoImportOnPaste": true,
-  "suggestWidgetCreation": true
-}
